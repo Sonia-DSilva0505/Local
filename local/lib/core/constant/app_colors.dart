@@ -1,0 +1,47 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color black = Color(0xff000000);
+  static const Color blackButtonColor = Color(0xff3C3C3C);
+  static const Color bottomNavBarBgColor = Color(0xffF6F6F6);
+  static const Color bottomNavBarInactiveIconColor = Color(0xffC4C4C4);
+  static const Color bottomNavBaractiveIconColor = Color(0xff8C8C8C);
+  static const Color green = Color(0xff018E42);
+  static const Color grey = Color(0xff999999);
+  static const Color greyTimeLine = Color(0xffF2F2F2);
+  static const Color lightGreyLine = Color(0xffD0D0D0);
+  static const Color orangeLight = Colors.orangeAccent;
+  static const Color primary = Color(0xff002A8A);
+  static const Color primaryLight = Color(0xffE8F2FF);
+  static const Color questionCardAnswerBg = Color(0xffE8F2FF);
+  static const Color questionCardAnswerBorder = Color(0xffC4C4C4);
+  static const Color red = Color(0xffD72638);
+  static const Color secondary = Color(0xffFFB802);
+  static const Color white = Color(0xffFFFFFF);
+  static const Color yellow = Color(0xffFFBC42);
+  static const Color homePageBg = Colors.black;
+  static const Color alert = Color(0xffd80c0d);
+  static const Color alertButtonColor = Color(0xffFF5247);
+  static const Color backgroundColors = Color(0xffB7B7B7);
+  static const Color bookmarkColor = Color(0xFFE1E1E1);
+  static const Color cardComponentColor = Color(0xFF868686);
+  static const Color cardComponentColor1 = Color(0xFFC6C6C6);
+  static const Color dropDownFillColor = Color(0xFFE9ECF4);
+  static const grey700 = Color(0xff616161);
+  static const lightText = Color(0xff3E3D3D);
+  static const lightGrey = Color(0xffF2F3F4);
+  static const grey350 = Color(0xffd6d6d6);
+  static const grey400 = Color(0xffbdbdbd);
+  static const grey600 = Color(0xff757575);
+  static const whiteShade = Color(0xfff7f5ff);
+  static const transparent = Colors.transparent;
+  static const iconColor = Color(0xff1C1B1F);
+  static const borderLight = Color(0xffE1E1E1);
+  static const bannerDetailText = Color(0xff707070);
+  static const Color grey500 = Color(0xff868686);
+  static const Color lightblue = Color(0xffE2EAFF);
+  static const lightCardTextColor = Color(0xff1F1F1F);
+  static const Color greenColor = Color(0xFF23B33A);
+  static const Color redColor = Color(0xFFDB2D2D);
+  static const searchBarLightColor = Color(0xffD9D9D9);
+}
